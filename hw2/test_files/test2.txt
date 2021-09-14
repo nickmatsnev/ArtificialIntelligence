@@ -1,0 +1,10 @@
+100 230 Berlin
+200 230 NY
+300 230 London
+100 130 LA
+100 330 DC
+100 30 Brno
+100 100 Budapest
+200 200 Addis Abeba
+300 300 Shymkent
+400 400 Kazan'

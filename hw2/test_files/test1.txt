@@ -1,0 +1,20 @@
+100 160 Grodno
+180 100 Gdansk
+180 60 Lyublyana
+200 40 Zagreb
+160 20 Dimitrovgrad
+120 80 Vyatka
+100 40 Kosice
+60 20 Ostrava
+20 20 St Petersburg
+20 40 Belgrad
+60 80 Bratislava
+100 120 Plzen
+80 180 Kharkiv
+230 200 Prague
+20 160 Brno
+140 120 Minsk
+100 160 Smolensk
+140 140 Warsaw
+140 180 Kyiv
+180 200 Moscow
